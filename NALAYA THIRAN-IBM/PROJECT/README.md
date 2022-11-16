@@ -1,5 +1,4 @@
-# IBM-Project-17526-1659672954
-Real-Time Communication System Powered by AI for Specially Abled
+# Real-Time Communication System Powered by AI for Specially Abled
 
 # Domain
 
