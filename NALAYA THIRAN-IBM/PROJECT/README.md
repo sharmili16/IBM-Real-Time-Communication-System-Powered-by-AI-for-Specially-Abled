@@ -5,17 +5,17 @@ Real-Time Communication System Powered by AI for Specially Abled
 
 AI - Artificial Intelligence 
 
-# Team ID: PNT2022TMID25445
+# Team ID: PNT2022TMID05718
 
-Team Leader - Logesh G
+Team Leader - Sharmili BJ
 
-Team Member 1 - Balaji P
+Team Member 1 - Sishul Suresh Kumar
 
-Team Member 2 - Harish S
+Team Member 2 - Sibi Chakravarthi V
 
-Team Member 3 - Linga kumar M
+Team Member 3 - Rohith Vishwa VS
 
-# Kings Engineering College
+# Sri Ramakrishna Engineering College
 
 
 # This repository contains the coding Assignments and Course Deliverables done as follows for this Project. 
